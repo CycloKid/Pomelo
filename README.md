@@ -1,8 +1,10 @@
+# Pomelo does not work anymore due to an DMCA Request
+
 <img src="https://github.com/Pomelo-Emu/Pomelo/blob/main/Pomelo/Assets.xcassets/AppIcon.appiconset/pomelo-remake.png" width="120" style="border-radius:50%">
 
 # Pomelo
 
-Pomelo is a Nintendo Switch Emulator based off of Sudachi for iOS devices.
+Pomelo is a Nintendo Switch Emulator for iOS devices.
 
 # Piracy
 
@@ -10,9 +12,7 @@ WE DO NOT CONDONE OR SUPPORT PIRACY AT ALL. If you want to use Pomelo you will b
 
 # Info and FAQ
 
-### NOTE: Some entitlements Pomelo depends on require a PAID Apple Developer Account. Your mileage with a free account might be limited. 
-
-Pomelo is based on Sudachi which was orginally sourced from the now defunct Yuzu emulator.
+### NOTE: Some entitlements Pomelo depends on require a PAID Apple Developer Account. Your mileage with a free account might be limited.
 
 ## iOS
 
