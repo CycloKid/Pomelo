@@ -66,4 +66,4 @@ Check the Wiki [here](https://github.com/Pomelo-Emu/Pomelo/wiki/Post-Setup-Guide
 
 # Screenshots
 
-![game-preview-screenshot](images/IMG_1807.png)
+![game-preview-screenshot](images/gamepreview-1.png)
