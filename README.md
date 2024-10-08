@@ -1,4 +1,4 @@
-# Pomelo does not work anymore due to an DMCA Request
+# The core of Pomelo has been removed due to a DMCA Request
 
 <img src="https://github.com/Pomelo-Emu/Pomelo/blob/main/Pomelo/Assets.xcassets/AppIcon.appiconset/pomelo-remake.png" width="120" style="border-radius:50%">
 
